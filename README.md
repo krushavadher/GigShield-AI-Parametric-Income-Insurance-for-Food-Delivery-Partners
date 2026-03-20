@@ -1,0 +1,1 @@
+# GigShield-AI-Parametric-Income-Insurance-for-Food-Delivery-Partners
