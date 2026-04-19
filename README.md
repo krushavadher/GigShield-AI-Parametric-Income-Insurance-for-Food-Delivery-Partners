@@ -273,14 +273,6 @@ React frontend + Node.js backend + Python Flask AI service, all running locally 
 
 ---
 
-## 👥 Team CodeStorm
 
-> Building resilient, intelligent systems under pressure ⚡
-
-| Member | Role |
-|---|---|
-| Team Lead | Product and Architecture |
-| Developer | Backend and AI/ML |
-| Developer | Frontend and Mobile |
 
 
